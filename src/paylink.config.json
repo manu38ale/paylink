@@ -2,25 +2,25 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Manu",
+    "description": "Fotoreportero y Líder de HiveCuba",
+    "alt": "Photo of Manu",
+    "hero": "./images/IMG_0106.jpg"
   },
 
   "Social": [
-    { "label": "Link", "value": "bxl-link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:your@mail.com" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "value": "bxl-link", "link": "" },
+    { "label": "Email", "value": "bx-envelope", "link": "mailto:manu38ale@mail.com" },
+    { "label": "GitHub", "value": "bxl-github", "link": "" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/manuphotos_" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://www.linkedin.com/in/manuel-alejandro-saiz-moya-a89897161/" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/manuphotos_cuba" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
-    { "label": "Facebook", "value": "bxl-facebook", "link": "" },
+    { "label": "Facebook", "value": "bxl-facebook", "link": "https://facebook.com/manuphotos" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
     { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
     { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
-    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
+    { "label": "Telegram", "value": "bxl-telegram", "link": "https://t.me.com/manuphotos" },
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
@@ -34,8 +34,14 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1qjuhpv570608e9fa8lag2vu9vyjyd4vw6jz2n9h",
       "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "hive",
+      "label": "Hive",
+      "value": "manuphotos",
+      "img": "./images/payments/logo_transparent_noBorders@2k.png"
     },
     {
       "id": "busd",
@@ -52,13 +58,13 @@
     {
       "id": "doge",
       "label": "DogeCoin",
-      "value": "",
+      "value": "DDMX2idSr7G4149LsVXR5rFukDnGR5oLF8",
       "img": "./images/payments/doge.svg"
     },
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -76,13 +82,14 @@
     {
       "id": "usdt",
       "label": "USDT",
-      "value": "",
+      "value": "TF5K7RTKpAwP7LPfkJSRa5SQ6zs7NMUM9n
+",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/manuphotos",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -100,7 +107,8 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "TF5K7RTKpAwP7LPfkJSRa5SQ6zs7NMUM9n
+",
       "img": "./images/payments/trx.svg"
     },
     {
